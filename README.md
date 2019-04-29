@@ -4,7 +4,7 @@ This is for Hadoop Installation in Pseudo Distributed mode
 ReadMe()
   if ReadMeFirst = true;
     follow steps;
-    installation :success
+    installation=success
   else
     ReadMe()
     
