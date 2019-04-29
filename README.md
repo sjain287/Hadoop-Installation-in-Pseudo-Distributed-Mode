@@ -1,4 +1,4 @@
-# Hadoop-Installation
+# Hadoop-Installation in Pseudo Distributed Mode
 This is for Hadoop Installation in Pseudo Distributed mode
 
 ReadMe()
